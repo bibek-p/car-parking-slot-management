@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Bibek",
+        "email": "bibekispythondeveloper@gmail.com",
+        "phoneno": "7504395727",
+        "user_type": "1",
+        "is_active_user": "1",
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": "2",
+        "name": "BEBO",
+        "email": "bebo@gmail.com",
+        "phoneno": "7504395727",
+        "user_type": "2",
+        "is_active_user": "1",
+        "created_at": null,
+        "updated_at": null
+    }
+]
